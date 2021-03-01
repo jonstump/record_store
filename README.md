@@ -27,5 +27,5 @@ The focus of this exercise is to learn the basics of routing and building out th
 Copyright &copy; 2021 Micah L. Olson, Jon Stump
 
 ## Contact
-micah.olson@protonmail.com
+micah.olson@protonmail.com  
 jmstump@gmail.com

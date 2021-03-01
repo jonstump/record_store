@@ -1,5 +1,5 @@
 class Album
-  attr_reader :id, :name
+  attr_reader :id
   attr_accessor :name
   @@albums = {}
   @@total_rows = 0
